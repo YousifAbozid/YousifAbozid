@@ -79,7 +79,8 @@ You can contact me about **Hiring**, **Exchange Knowledge** or just to say **Hi*
 <img src="https://raw.githubusercontent.com/github/explore/728542e0d33f83720614f61923a9cb424264db23/topics/firefox/firefox.png" alt="Firefox" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn2.iconfinder.com/data/icons/HYDROPRO/HP-Firefox-Dock-512.png" alt="Firefox-developer-edition" height="40" style="vertical-align:top; margin:4px">
 </p>
-#### Prefere
+
+#### Preferred
 <img src="https://github.com/chromium/chromium/raw/master/chrome/app/theme/chromium/product_logo_64.png" alt="Chromium" height="40" style="vertical-align:top; margin:4px">
 
 ## ☢️ Operating Systems ☢️
@@ -93,7 +94,8 @@ You can contact me about **Hiring**, **Exchange Knowledge** or just to say **Hi*
 <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/fedora-512.png" alt="Fedora" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.icons8.com/color/344/kali-linux.png" alt="Kali-linux" height="40" style="vertical-align:top; margin:4px">
 </p>
-#### Prefere
+
+#### Preferred
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" height="40" style="vertical-align:top; margin:4px">
 
 ## ✅ My GitHub Stats ✅
