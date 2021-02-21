@@ -3,10 +3,10 @@
 I'm 22 years old Full Stack Web Developer From Egypt, I learned how to code since 2018, this was my first step in this industry, I learned Python in [Udacity](https://www.udacity.com/) with professor [David Evans](http://www.cs.virginia.edu/~evans/) in [cs101](http://www.cs.virginia.edu/~evans/courses/cs101/) course, it was very good start.
 <br>
 
-In September 2020 I learned MERN Stack in [Full Stack Open 2020](https://fullstackopen.com/en/) MOOC, This MOOC was introduced by professor [Matti Luukkainen](https://github.com/mluukkai), he is a professor in computer science department in [University of Helsinki](https://www.helsinki.fi/en) in Finland, he is a great man :heart:, and I'm in love with MERN Stack since then :heart:.
+In September 2020 I learned MERN Stack in [Full Stack Open 2020](https://fullstackopen.com/en/) MOOC, This MOOC was introduced by professor [Matti Luukkainen](https://github.com/mluukkai), he is a professor in computer science department in [University of Helsinki](https://www.helsinki.fi/en) in Finland, he is a great man :heart:, and I'm in love with MERN Stack since then :heart:
 <br>
 
-Also I'm a [Law](http://www.law.zu.edu.eg/faculty/default) student in [Zagazig University](http://www.zu.edu.eg/) in Egypt and novelist :heart:.
+Also I'm a [Law](http://www.law.zu.edu.eg/faculty/default) student in [Zagazig University](http://www.zu.edu.eg/) in Egypt and novelist :heart:
 
 - 🔭 I’m currently working remotely as freelancer.
 - 🌱 I’m currently learning Next.js and Docker.
@@ -16,9 +16,24 @@ Also I'm a [Law](http://www.law.zu.edu.eg/faculty/default) student in [Zagazig U
 - 😄 Pronouns: he/his.
 - ⚡ Fun fact: I'm single 😁
 
-### Contact Me
+### ☎️ Contact Me ☎️
 
-TODO
+You can contact me about **Hiring**, **Exchange Knowledge** or just to say **Hi** 👋😊, you are **Welcome** in any of these cases 🥰
+
+<p align="left">
+<a href="https://www.facebook.com/YousifAbozid/" target="_blank">
+<img src="https://avatars.githubusercontent.com/u/69631?s=200&v=4" alt="Facebook" height="40" style="vertical-align:top; margin:4px">
+</a>
+<a href="https://twitter.com/YousifAbozid12" target="_blank">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" alt="Twitter" height="40" style="vertical-align:top; margin:4px">
+</a>
+<a href="https://t.me/YousifAbozid" target="_blank">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" alt="Telegram" height="40" style="vertical-align:top; margin:4px">
+</a>
+<a href="mailto:yousif.abozid@yahoo.com" target="_blank">
+<img src="https://cdn1.iconfinder.com/data/icons/smallicons-logotypes/32/yahoo-512.png" alt="Yahoo" height="40" style="vertical-align:top; margin:4px">
+</a>
+</p>
 
 ### ☢️ Languages, frameworks and Tools ☢️
 
@@ -48,7 +63,6 @@ TODO
 ### ✅ My GitHub Stats ✅
 
 ![Yousif Abozid's GitHub stats](https://github-readme-stats.vercel.app/api?username=YousifAbozid&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide=stars)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YousifAbozid&layout=compact&theme=radical)
 
 ### 🔱 My favourite projects 🔱
