@@ -65,14 +65,18 @@ You can contact me about **Hiring**, **Exchange Knowledge** or just to say **Hi*
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="Npm" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/yarnpkg/assets/raw/master/yarn-kitten-full.png?raw=true" alt="Yarn" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+<!---
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" alt="Atom" height="40" style="vertical-align:top; margin:4px">
+-->
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
+<!---
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="Bash" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" alt="Terminal" height="40" style="vertical-align:top; margin:4px">
+-->
 </p>
 
 ## ☢️ Browsers ☢️
-
+<!---
 #### Used
 <p align="left">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png" alt="Chrome" height="40" style="vertical-align:top; margin:4px">
@@ -81,8 +85,9 @@ You can contact me about **Hiring**, **Exchange Knowledge** or just to say **Hi*
 <img src="https://raw.githubusercontent.com/github/explore/728542e0d33f83720614f61923a9cb424264db23/topics/firefox/firefox.png" alt="Firefox" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn2.iconfinder.com/data/icons/HYDROPRO/HP-Firefox-Dock-512.png" alt="Firefox-developer-edition" height="40" style="vertical-align:top; margin:4px">
 </p>
+Preferred
+-->
 
-#### Preferred
 <img src="https://github.com/chromium/chromium/raw/master/chrome/app/theme/chromium/product_logo_64.png" alt="Chromium" height="40" style="vertical-align:top; margin:4px">
 
 ## ☢️ Operating Systems ☢️
@@ -92,9 +97,11 @@ You can contact me about **Hiring**, **Exchange Knowledge** or just to say **Hi*
 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/windows-512.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" height="40" style="vertical-align:top; margin:4px">
+<!---
 <img src="https://avatars.githubusercontent.com/u/16889168?s=200&v=4" alt="Zorin" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/fedora-512.png" alt="Fedora" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.icons8.com/color/344/kali-linux.png" alt="Kali-linux" height="40" style="vertical-align:top; margin:4px">
+-->
 </p>
 
 #### Preferred
