@@ -9,18 +9,18 @@ In September 2020 I learned MERN Stack in [Full Stack Open 2020](https://fullsta
 Also I'm a [Law](http://www.law.zu.edu.eg/faculty/default) student in [Zagazig University](http://www.zu.edu.eg/) in Egypt and novelist :heart:.
 
 - 🔭 I’m currently working remotely as freelancer.
-- 🌱 I’m currently learning Next.js
-- 👯 I’m looking to collaborate on building an open source web app that help peoples in real life with every day's needs.
-- 🤔 I’m looking for help with finiding great resources to learn, books to read and projects to build.
+- 🌱 I’m currently learning Next.js and Docker.
+- 👯 I’m looking to collaborate on building an open source web app that help people in real life world with every day's needs.
+- 🤔 I’m looking for help with finding great resources to learn, books to read and projects ideas to build.
 - 💬 Ask me about anything, I don't bite, you can start with "hi 👋" 😅
-- 😄 Pronouns: he/his
+- 😄 Pronouns: he/his.
 - ⚡ Fun fact: I'm single 😁
 
 ### Contact Me
 
 TODO
 
-### 🧰 Languages and Tools
+### ☢️ Languages, frameworks and Tools ☢️
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
@@ -31,6 +31,7 @@ TODO
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Express" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" alt="Markdown" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="NPM" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/yarnpkg/assets/raw/master/yarn-kitten-full.png?raw=true" alt="Yarn" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
@@ -44,11 +45,13 @@ TODO
 <img src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" alt="Terminal" height="40" style="vertical-align:top; margin:4px">
 </p>
 
+### ✅ My GitHub Stats ✅
+
 ![Yousif Abozid's GitHub stats](https://github-readme-stats.vercel.app/api?username=YousifAbozid&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide=stars)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YousifAbozid&layout=compact&theme=radical)
 
-### My favourite projects
+### 🔱 My favourite projects 🔱
 
 <a href="https://github.com/YousifAbozid/AsgardMarket">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YousifAbozid&repo=AsgardMarket&show_owner=true&theme=radical" />
