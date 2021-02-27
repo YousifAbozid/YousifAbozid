@@ -21,19 +21,19 @@ Also I'm a [Law](http://www.law.zu.edu.eg/faculty/default) student in [Zagazig U
 You can contact me about **Hiring**, **Exchange Knowledge** or just to say **Hi** 👋😊, you are **Welcome** in any of these cases 🥰
 
 <p align="left">
-<a href="https://www.facebook.com/YousifAbozid/" target="_blank">
+<a href="https://www.facebook.com/YousifAbozid/">
 <img src="https://avatars.githubusercontent.com/u/69631?s=200&v=4" alt="Facebook" height="40" style="vertical-align:top; margin:4px">
 </a>
-<a href="https://twitter.com/YousifAbozid12" target="_blank">
+<a href="https://twitter.com/YousifAbozid12">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" alt="Twitter" height="40" style="vertical-align:top; margin:4px">
 </a>
-<a href="https://t.me/YousifAbozid" target="_blank">
+<a href="https://t.me/YousifAbozid">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" alt="Telegram" height="40" style="vertical-align:top; margin:4px">
 </a>
-<a href="mailto:yousif.abozid@yahoo.com" target="_blank">
+<a href="mailto:yousif.abozid@yahoo.com">
 <img src="https://cdn1.iconfinder.com/data/icons/smallicons-logotypes/32/yahoo-512.png" alt="Yahoo" height="40" style="vertical-align:top; margin:4px">
 </a>
-<a href="https://www.linkedin.com/in/yousif-abozid-12088a207/" target="_blank">
+<a href="https://www.linkedin.com/in/yousif-abozid-12088a207/">
 <img src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px">
 </a>
 </p>
@@ -49,8 +49,10 @@ You can contact me about **Hiring**, **Exchange Knowledge** or just to say **Hi*
 <img src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png" alt="Next.js" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" height="40" style="vertical-align:top; margin:4px">
 <img src="https://avatars.githubusercontent.com/u/5658226?s=200&v=4" alt="Express" height="40" style="vertical-align:top; margin:4px">
+<!---
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">
 <img src="https://camo.githubusercontent.com/58423e406b227112756822122631d9eca5ab83334a6f0d8f2a6305b086815747/68747470733a2f2f6d6174657269616c2d75692e636f6d2f7374617469632f6c6f676f2e737667" alt="Matrial-ui" height="40" style="vertical-align:top; margin:4px">
+-->
 <img src="https://avatars.githubusercontent.com/u/45120?s=200&v=4" alt="MongoDB" height="40" style="vertical-align:top; margin:4px">
 </p>
 
@@ -65,8 +67,11 @@ You can contact me about **Hiring**, **Exchange Knowledge** or just to say **Hi*
 ## ☢️ Tools ☢️
 
 <p align="left">
+<!---
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="Npm" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/yarnpkg/assets/raw/master/yarn-kitten-full.png?raw=true" alt="Yarn" height="40" style="vertical-align:top; margin:4px">
+-->
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png" alt="Chrome" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <!---
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" alt="Atom" height="40" style="vertical-align:top; margin:4px">
@@ -78,21 +83,18 @@ You can contact me about **Hiring**, **Exchange Knowledge** or just to say **Hi*
 -->
 </p>
 
-## ☢️ Browsers ☢️
 <!---
+## ☢️ Browsers ☢️
 #### Used
 <p align="left">
 <img src="https://github.com/chromium/chromium/raw/master/chrome/app/theme/chromium/product_logo_64.png" alt="Chromium" height="40" style="vertical-align:top; margin:4px">
-<img src="https://github.com/chromium/chromium/raw/master/chrome/app/theme/chromium/product_logo_64.png" alt="Chromium" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png" alt="Chrome" height="40" style="vertical-align:top; margin:4px">
 <img src="https://avatars.githubusercontent.com/u/12301619?s=200&v=4" alt="Brave" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/728542e0d33f83720614f61923a9cb424264db23/topics/firefox/firefox.png" alt="Firefox" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn2.iconfinder.com/data/icons/HYDROPRO/HP-Firefox-Dock-512.png" alt="Firefox-developer-edition" height="40" style="vertical-align:top; margin:4px">
 </p>
 Preferred
 -->
-
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png" alt="Chrome" height="40" style="vertical-align:top; margin:4px">
-
 ## ☢️ Operating Systems ☢️
 
 #### Used
