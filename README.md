@@ -114,7 +114,7 @@ Preferred
 
 ## ✅ My GitHub Stats ✅
 
-![Yousif Abozid's GitHub stats](https://github-readme-stats.vercel.app/api?username=YousifAbozid&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide=stars)
+![Yousif Abozid's GitHub stats](https://github-readme-stats.vercel.app/api?username=YousifAbozid&count_private=true&stars=true&include_all_commits=true&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YousifAbozid&layout=compact&theme=radical)
 
 ## 🔱 My favourite projects 🔱
