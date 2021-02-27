@@ -33,6 +33,9 @@ You can contact me about **Hiring**, **Exchange Knowledge** or just to say **Hi*
 <a href="mailto:yousif.abozid@yahoo.com" target="_blank">
 <img src="https://cdn1.iconfinder.com/data/icons/smallicons-logotypes/32/yahoo-512.png" alt="Yahoo" height="40" style="vertical-align:top; margin:4px">
 </a>
+<a href="https://www.linkedin.com/in/yousif-abozid-12088a207/" target="_blank">
+<img src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px">
+</a>
 </p>
 
 ## ☢️ Languages, frameworks and Databases ☢️
