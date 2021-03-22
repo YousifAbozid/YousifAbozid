@@ -110,7 +110,7 @@ Preferred
 </p>
 
 #### Preferred
-<img src="https://img.icons8.com/color/344/kali-linux.png" alt="Kali-linux" height="40" style="vertical-align:top; margin:4px">
+<img src="https://avatars.githubusercontent.com/u/16889168?s=200&v=4" alt="Zorin" height="40" style="vertical-align:top; margin:4px">
 
 ## ✅ My GitHub Stats ✅
 
