@@ -19,7 +19,7 @@ Also I'm a [Law](http://www.law.zu.edu.eg/faculty/default) student in [Zagazig U
 ## ☎️ Contact Me ☎️
 
 You can contact me about **Hiring**, **Exchange Knowledge** or just to say **Hi** 👋😊, you are **Welcome** in any of these cases 🥰
-
+<!---
 <p align="left">
 <a href="https://www.facebook.com/YousifAbozid/">
 <img src="https://avatars.githubusercontent.com/u/69631?s=200&v=4" alt="Facebook" height="40" style="vertical-align:top; margin:4px">
@@ -29,7 +29,7 @@ You can contact me about **Hiring**, **Exchange Knowledge** or just to say **Hi*
 </a>
 <a href="https://t.me/YousifAbozid">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" alt="Telegram" height="40" style="vertical-align:top; margin:4px">
-</a>
+</a>-->
 <a href="mailto:yousif.abozid@yahoo.com">
 <img src="https://cdn1.iconfinder.com/data/icons/smallicons-logotypes/32/yahoo-512.png" alt="Yahoo" height="40" style="vertical-align:top; margin:4px">
 </a>
