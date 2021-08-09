@@ -1,6 +1,6 @@
 # Hi I'm Yousif 👋
 
-I'm 22 years old Full Stack Web Developer From Egypt, I learned how to code since 2018, this was my first step in this industry, I learned Python in [Udacity](https://www.udacity.com/) with professor [David Evans](http://www.cs.virginia.edu/~evans/) in [cs101](http://www.cs.virginia.edu/~evans/courses/cs101/) course, it was very good start.
+I'm 22 years old Full Stack Web Developer and Software Engineer From Egypt, I learned how to code since 2018, this was my first step in this industry, I learned Python in [Udacity](https://www.udacity.com/) with professor [David Evans](http://www.cs.virginia.edu/~evans/) in [cs101](http://www.cs.virginia.edu/~evans/courses/cs101/) course, it was very good start.
 <br>
 
 In September 2020 I learned MERN Stack in [Full Stack Open 2020](https://fullstackopen.com/en/) MOOC, This MOOC was introduced by professor [Matti Luukkainen](https://github.com/mluukkai), he is a professor in computer science department in [University of Helsinki](https://www.helsinki.fi/en) in Finland, he is a great man :heart:, and I'm in love with MERN Stack since then :heart:
