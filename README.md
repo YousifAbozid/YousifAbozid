@@ -9,7 +9,7 @@ In September 2020 I learned MERN Stack in [Full Stack Open 2020](https://fullsta
 Also I'm a [Law](http://www.law.zu.edu.eg/faculty/default) student in [Zagazig University](http://www.zu.edu.eg/) in Egypt and novelist :heart:
 
 - 🔭 I’m currently working remotely as freelancer.
-- 🌱 I’m currently learning Next.js and Docker.
+- 🌱 I’m currently learning JavaScript Algorithms and Data Structures.
 - 👯 I’m looking to collaborate on building an open source web app that help people in real life world with every day's needs.
 - 🤔 I’m looking for help with finding great resources to learn, books to read and projects ideas to build.
 - 💬 Ask me about anything, I don't bite, you can start with "hi 👋" 😅
