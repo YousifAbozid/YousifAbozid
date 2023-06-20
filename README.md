@@ -1,38 +1,38 @@
 # Hello, I'm Yousif 👋
 
-:heart: Software Engineer, Novelist and Entrepreneur :heart:
+♥️ Software Engineer, Novelist and Entrepreneur ♥️
 
-:heart: Founder & CEO of [Gig Bud](https://github.com/GigBud) :heart:
+♥️ Founder & CEO of [Gig Bud](https://github.com/GigBud) ♥️
 
-:heart: I'm Currently studying in [ALX SE Program](https://www.alxafrica.com/software-engineering) at [ALX Africa](http://www.alxafrica.com), also I'm former student at [Udacity](https://udacity.com) & [University of Helsinki](https://www.helsinki.fi/en) :heart:
+♥️ I'm Currently studying in [ALX SE Program](https://www.alxafrica.com/software-engineering) at [ALX Africa](http://www.alxafrica.com), also I'm former student at [Udacity](https://udacity.com) & [University of Helsinki](https://www.helsinki.fi/en) ♥️
 
-:heart: Here's a breakdown of the languages and tools I'm familiar with:
+♥️ Here's a breakdown of the languages and tools I'm familiar with:
 
-:heart: **Languages** :heart:
+♥️ **Languages** ♥️
 
 <p align="left">
 HTML | CSS | JavaScript | TypeScript | SQL | Bash | C
 </p>
 
-:heart: **Front-end Development** :heart:
+♥️ **Front-end Development** ♥️
 
 <p align="left">
 React | Next.js | Material-UI | Bootstrap | RESTful APIs | GraphQL
 </p>
 
-:heart: **Back-end Development** :heart:
+♥️ **Back-end Development** ♥️
 
 <p align="left">
 Node.js | Express | MongoDB | PostgreSQL
 </p>
 
-:heart: **Deployment & Hosting & CI/CD** :heart:
+♥️ **Deployment & Hosting & CI/CD** ♥️
 
 <p align="left">
 AWS | Vercel | Heroku | Netlify | CircleCI
 </p>
 
-:heart: **Testing** :heart:
+♥️ **Testing** ♥️
 
 <p align="left">
 Jest | Jasmine | Cypress
