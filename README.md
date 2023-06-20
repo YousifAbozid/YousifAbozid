@@ -4,9 +4,9 @@
 
 :heart: Founder & CEO of [Gig Bud](https://github.com/GigBud) :heart:
 
-I'm Currently studying in [ALX SE Program](https://www.alxafrica.com/software-engineering) at [ALX Africa](http://www.alxafrica.com), also I'm former student at [Udacity](https://udacity.com) & [University of Helsinki](https://www.helsinki.fi/en).
+:heart: I'm Currently studying in [ALX SE Program](https://www.alxafrica.com/software-engineering) at [ALX Africa](http://www.alxafrica.com), also I'm former student at [Udacity](https://udacity.com) & [University of Helsinki](https://www.helsinki.fi/en) :heart:
 
-Here's a breakdown of the languages and tools I'm familiar with:
+:heart: Here's a breakdown of the languages and tools I'm familiar with:
 
 :heart: **Languages** :heart:
 
@@ -30,6 +30,12 @@ Node.js | Express | MongoDB | PostgreSQL
 
 <p align="left">
 AWS | Vercel | Heroku | Netlify | CircleCI
+</p>
+
+:heart: **Testing** :heart:
+
+<p align="left">
+Jest | Jasmine | Cypress
 </p>
 
 ## ☎️ Contact Me ☎️
