@@ -1,5 +1,8 @@
 # Hi I'm Yousif 👋
 
+I'm a passionate Software Engineer who love building apps, started to code since 2018 to become a Full Stack Developer, Currently studying at [ALX Africa](http://www.alxafrica.com) @ALXAfrica in [ALX SE Program](https://www.alxafrica.com/software-engineering), also I'm former student at [Udacity](https://udacity.com) @udacity & [University of Helsinki](https://www.helsinki.fi/en).
+
+<!---
 I'm 22 years old Full Stack Web Developer and Software Engineer From Egypt, I learned how to code since 2018, this was my first step in this industry, I learned Python in [Udacity](https://www.udacity.com/) with professor [David Evans](http://www.cs.virginia.edu/~evans/) in [cs101](http://www.cs.virginia.edu/~evans/courses/cs101/) course, it was very good start.
 <br>
 
@@ -7,6 +10,7 @@ In September 2020 I learned MERN Stack in [Full Stack Open 2020](https://fullsta
 <br>
 
 Also I'm a [Law](http://www.law.zu.edu.eg/faculty/default) student in [Zagazig University](http://www.zu.edu.eg/) in Egypt and novelist :heart:
+-->
 
 - 🔭 I’m currently working remotely as freelancer.
 - 🌱 I’m currently learning JavaScript Algorithms and Data Structures.
@@ -96,9 +100,11 @@ You can contact me about **Hiring**, **Exchange Knowledge** or just to say **Hi*
 </p>
 Preferred
 -->
+
 ## ☢️ Operating Systems ☢️
 
 #### Used
+
 <p align="left">
 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/windows-512.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" height="40" style="vertical-align:top; margin:4px">
@@ -111,12 +117,14 @@ Preferred
 </p>
 
 #### Preferred
+
 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/windows-512.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">
 
 ## ✅ My GitHub Stats ✅
 
 ![Yousif Abozid's GitHub stats](https://github-readme-stats.vercel.app/api?username=YousifAbozid&count_private=true&stars=true&include_all_commits=true&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YousifAbozid&layout=compact&theme=radical)
+
 <!---
 ## 🔱 My favourite projects 🔱
 
