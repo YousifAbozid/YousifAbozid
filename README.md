@@ -44,5 +44,5 @@ Send me a message via [Telegram](https://t.me/YousifAbozid) or [Email](mailto:yo
 
 ## ✅ My GitHub Stats ✅
 
-![Yousif Abozid's GitHub stats](https://github-readme-stats.vercel.app/api?username=YousifAbozid&count_private=true&stars=true&include_all_commits=true&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YousifAbozid&layout=compact&theme=radical)
+![Yousif Abozid's GitHub stats](https://github-readme-stats-yousifabozid.vercel.app/api?username=YousifAbozid&include_all_commits=true&hide_border=true&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-yousifabozid.vercel.app/api/top-langs/?username=YousifAbozid&hide_border=true&langs_count=6&layout=compact&theme=radical)
