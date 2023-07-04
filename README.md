@@ -29,7 +29,7 @@ Node.js | Express | MongoDB | PostgreSQL
 ♥️ **Deployment & Hosting & CI/CD** ♥️
 
 <p align="left">
-AWS | Vercel | Heroku | Netlify | CircleCI
+AWS | Vercel | Heroku | Netlify | CircleCI | GitHub Actions
 </p>
 
 ♥️ **Testing** ♥️
