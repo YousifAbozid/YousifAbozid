@@ -44,9 +44,5 @@ Send me a message via [Telegram](https://t.me/YousifAbozid) or [Email](mailto:yo
 
 ## ✅ My GitHub Stats ✅
 
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-yousifabozid.vercel.app/api?username=YousifAbozid&include_all_commits=true&hide_border=true&show_icons=true&theme=radical" alt="Yousif Abozid's GitHub stats" /></a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-yousifabozid.vercel.app/api/top-langs/?username=YousifAbozid&hide_border=true&langs_count=6&layout=compact&theme=radical" alt="Yousif Abozid's Top Langs" /></a> -->
-
-![Yousif Abozid's GitHub stats](https://github-readme-stats-yousifabozid.vercel.app/api?username=YousifAbozid&include_all_commits=true&hide_border=true&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats-yousifabozid.vercel.app/api/top-langs/?username=YousifAbozid&hide_border=true&langs_count=6&layout=compact&theme=radical)
+![Yousif Abozid's GitHub stats](https://github-readme-stats.vercel.app/api?username=YousifAbozid&include_all_commits=true&hide_border=true&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YousifAbozid&hide_border=true&langs_count=6&layout=compact&theme=radical)
