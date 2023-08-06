@@ -2,7 +2,7 @@
 
 ♥️ Software Engineer, Novelist and Entrepreneur ♥️
 
-♥️ Founder & CEO of [Gig Bud](https://github.com/GigBud) ♥️
+♥️ Founder & CEO at [Gig Bud](https://github.com/GigBud) ♥️
 
 ♥️ I'm Currently studying in [ALX SE Program](https://www.alxafrica.com/software-engineering) at [ALX Africa](http://www.alxafrica.com), also I'm former student at [Udacity](https://udacity.com) & [University of Helsinki](https://www.helsinki.fi/en) ♥️
 
