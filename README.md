@@ -6,7 +6,7 @@
 
 ♥️ I'm Currently studying in [ALX SE Program](https://www.alxafrica.com/software-engineering) at [ALX Africa](http://www.alxafrica.com), also I'm former student at [Udacity](https://udacity.com) & [University of Helsinki](https://www.helsinki.fi/en) ♥️
 
-♥️ Here's a breakdown of the languages and tools I'm familiar with:
+### ♥️ Here's a breakdown of the languages and tools I'm familiar with:
 
 ♥️ **Languages** ♥️
 
