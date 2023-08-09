@@ -45,7 +45,7 @@ Send me a message via [Telegram](https://t.me/YousifAbozid) or [Email](mailto:yo
 ## ✅ My GitHub Stats ✅
 
 <a href="https://github.com/YousifAbozid">
-  <img src="https://github-readme-stats.vercel.app/api?username=YousifAbozid&count_private=true&stars=true&include_all_commits=true&hide_border=true&show_icons=true&theme=radical" alt="Yousif Abozid's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=YousifAbozid&stars=true&include_all_commits=true&hide_border=true&show_icons=true&theme=radical" alt="Yousif Abozid's GitHub stats">
 </a>
 <a href="https://github.com/YousifAbozid">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YousifAbozid&hide_border=true&langs_count=8&layout=compact&theme=radical" alt="Top Languages">
