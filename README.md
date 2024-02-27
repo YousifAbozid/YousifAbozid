@@ -1,6 +1,6 @@
-<div style="text-align: center; width: 440px; height: 45px; color: #f75c7e; margin: auto; font-size: 22px; line-height: 45px;">
+<p align="center" style="color: #f75c7e">
     <a href="https://github.com/YousifAbozid" style="text-decoration: none; color: inherit;">Yousif Abozid</a>
-</div>
+</p>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -26,7 +26,7 @@ truly remarkable together! 💫👨‍💻
 
 <!-- My tech stack -->
 
-<h2 style="color:#f75c7e">🛠️ My Tech Stack</h2>
+<h2 style="color: #f75c7e">🛠️ My Tech Stack</h2>
 
 <h3 style="color:#f75c7e">Frontend</h3>
 
