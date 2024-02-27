@@ -28,9 +28,9 @@ truly remarkable together! 💫👨‍💻
 
 <!-- My tech stack -->
 
-<h2 style="color:#f75c7e">🛠️ My Tech Stack</h2>
+<h2 style="color:#f75c7e">💡 My Tech Stack 🌟</h2>
 
-<h3 style="color:#f75c7e">🖥️🎨 Frontend</h3>
+<h3 style="color:#f75c7e">🖥️ Frontend 🎨</h3>
 
 - <span style="color:#ffd700">**Languages**</span>: HTML, CSS, JavaScript,
   TypeScript
@@ -40,7 +40,7 @@ truly remarkable together! 💫👨‍💻
   Tailwind CSS, Shadcn-UI, Styled Components
 - <span style="color:#ffd700">**State Management**</span>: Redux, Context API
 
-<h3 style="color:#f75c7e">🛠️🗄️ Backend & Database</h3>
+<h3 style="color:#f75c7e">🍑 Backend & Database 🗃️</h3>
 
 - <span style="color:#ffd700">**Languages**</span>: JavaScript (Node.js), SQL
 - <span style="color:#ffd700">**Frameworks/Libraries**</span>: Express.js,
@@ -49,11 +49,11 @@ truly remarkable together! 💫👨‍💻
 - <span style="color:#ffd700">**Authentication & Security**</span>: JWT, Bcrypt,
   Cors
 
-<h3 style="color:#f75c7e">💻🔤 Programming Languages</h3>
+<h3 style="color:#f75c7e">💻 Programming Languages 👨‍💻</h3>
 
 - <span style="color:#ffd700">**Languages**</span>: Bash, C, Python
 
-<h3 style="color:#f75c7e">📡📚 APIs, Libraries & Services</h3>
+<h3 style="color:#f75c7e">📡 APIs, Libraries & Services 📚</h3>
 
 - <span style="color:#ffd700">**APIs**</span>: RESTful APIs, GraphQL, Webhooks
 - <span style="color:#ffd700">**HTTP Clients**</span>: Axios, Fetch API
@@ -61,21 +61,21 @@ truly remarkable together! 💫👨‍💻
 - <span style="color:#ffd700">**Third-party Services**</span>: Clerk,
   Cloudinary, Stripe
 
-<h3 style="color:#f75c7e">🚀🌐 DevOps & Hosting</h3>
+<h3 style="color:#f75c7e">🚀 DevOps & Hosting 🌐</h3>
 
 - <span style="color:#ffd700">**Version Control**</span>: Git, GitHub
 - <span style="color:#ffd700">**Hosting Platforms**</span>: Heroku, Netlify,
   Vercel, AWS, GitHub Pages
 - <span style="color:#ffd700">**CI/CD**</span>: GitHub Actions, CircleCI
 
-<h3 style="color:#f75c7e">🧪✅ Testing</h3>
+<h3 style="color:#f75c7e">🧪 Testing ✅</h3>
 
 - <span style="color:#ffd700">**Testing Frameworks**</span>: Jest, Cypress,
   Jasmine
 
 <!-- Conatct me -->
 
-<h2 style="color:#f75c7e">🎉 Let's Connect!</h2>
+<h2 style="color:#f75c7e">📱 Let's Connect! 💬</h2>
 
 Feel free to explore my projects and drop me a message if you want to chat tech
 or collaborate on something cool! 🤝
@@ -94,7 +94,7 @@ or collaborate on something cool! 🤝
 
 <!-- GitHub stats -->
 
-<h2 style="color:#f75c7e">🐙 My GitHub Stats</h2>
+<h2 style="color:#f75c7e">🐙 My GitHub Stats 🐙</h2>
 
 <a href="https://github.com/YousifAbozid">
   <img src="https://github-readme-stats.vercel.app/api?username=YousifAbozid&stars=true&include_all_commits=true&hide_border=true&show_icons=true&theme=radical" alt="Yousif Abozid's GitHub stats">
