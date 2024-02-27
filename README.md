@@ -7,7 +7,7 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-	<img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Software+Engineer;I+love+coding+%5E_%5E;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=24" />
+	<img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Software+Engineer;I+love+coding+%5E_%5E;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=25" />
 	</a>
 </p>
 
@@ -30,7 +30,7 @@ truly remarkable together! 💫👨‍💻
 
 <h2 style="color:#f75c7e">🛠️ My Tech Stack</h2>
 
-<h3 style="color:#f75c7e">Frontend</h3>
+<h3 style="color:#f75c7e">🖥️🎨 Frontend</h3>
 
 - <span style="color:#ffd700">**Languages**</span>: HTML, CSS, JavaScript,
   TypeScript
@@ -40,7 +40,7 @@ truly remarkable together! 💫👨‍💻
   Tailwind CSS, Shadcn-UI, Styled Components
 - <span style="color:#ffd700">**State Management**</span>: Redux, Context API
 
-<h3 style="color:#f75c7e">Backend & Database</h3>
+<h3 style="color:#f75c7e">🛠️🗄️ Backend & Database</h3>
 
 - <span style="color:#ffd700">**Languages**</span>: JavaScript (Node.js), SQL
 - <span style="color:#ffd700">**Frameworks/Libraries**</span>: Express.js,
@@ -49,11 +49,11 @@ truly remarkable together! 💫👨‍💻
 - <span style="color:#ffd700">**Authentication & Security**</span>: JWT, Bcrypt,
   Cors
 
-<h3 style="color:#f75c7e">Programming Languages</h3>
+<h3 style="color:#f75c7e">💻🔤 Programming Languages</h3>
 
 - <span style="color:#ffd700">**Languages**</span>: Bash, C, Python
 
-<h3 style="color:#f75c7e">APIs, Libraries & Services</h3>
+<h3 style="color:#f75c7e">📡📚 APIs, Libraries & Services</h3>
 
 - <span style="color:#ffd700">**APIs**</span>: RESTful APIs, GraphQL, Webhooks
 - <span style="color:#ffd700">**HTTP Clients**</span>: Axios, Fetch API
@@ -61,14 +61,14 @@ truly remarkable together! 💫👨‍💻
 - <span style="color:#ffd700">**Third-party Services**</span>: Clerk,
   Cloudinary, Stripe
 
-<h3 style="color:#f75c7e">DevOps & Hosting</h3>
+<h3 style="color:#f75c7e">🚀🌐 DevOps & Hosting</h3>
 
 - <span style="color:#ffd700">**Version Control**</span>: Git, GitHub
 - <span style="color:#ffd700">**Hosting Platforms**</span>: Heroku, Netlify,
   Vercel, AWS, GitHub Pages
 - <span style="color:#ffd700">**CI/CD**</span>: GitHub Actions, CircleCI
 
-<h3 style="color:#f75c7e">Testing</h3>
+<h3 style="color:#f75c7e">🧪✅ Testing</h3>
 
 - <span style="color:#ffd700">**Testing Frameworks**</span>: Jest, Cypress,
   Jasmine
