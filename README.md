@@ -1,10 +1,6 @@
-<p align="center" style="text-align: center; width: 440px; height: 45px; color: #f75c7e; margin: auto; font-size: 22px; line-height: 45px;">
-    <a href="https://github.com/YousifAbozid" style="text-decoration: none; color: inherit;">Yousif Abozid</a>
-</p>
-
 <div style="width: 100%;">
   <a href="https://github.com/YousifAbozid">
-    <img src="YousifAbozid.svg" style="width: 100%;" alt="Click to see the source">
+    <img src="YousifAbozid.svg" style="width: 100%;" alt="Yousif Abozid">
   </a>
 </div>
 
