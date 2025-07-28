@@ -125,18 +125,117 @@ add_paragraph("Completed a 4-year law degree.")
 
 # Skills
 add_section_header("Skills")
-add_paragraph(
-    "Languages: HTML, CSS, JavaScript, TypeScript, SQL, Bash, C, Python\n"
-    "Frameworks & Libraries: React.js, Next.js, Vite.js, Redux, Context API, Express.js, Mongoose\n"
-    "UI Libraries: Material-UI, Tailwind CSS, Bootstrap, Shadcn‑UI, Styled Components\n"
-    "State Management & Data Fetching: React Query, Redux, Context API, Apollo Client\n"
-    "Mobile / Cross‑Platform: Capacitor (iOS/Android, biometric auth)\n"
-    "API & Auth: REST, GraphQL, JWT, Clerk, bcrypt, dotenv, cors, Webhooks, Axios, Fetch API\n"
-    "Databases: MongoDB, PostgreSQL\n"
-    "Testing: Jest, Jasmine, Cypress, Playwright\n"
-    "CI/CD & DevOps: Git, GitHub, GitHub Actions, CircleCI, Netlify, Heroku, Vercel, AWS\n"
-    "Other Services & Tools: Stripe, Cloudinary, Scroll‑Lock"
-)
+# add_paragraph("Languages: HTML, CSS, JavaScript, TypeScript, SQL, Bash, C, Python")
+
+p = doc.add_paragraph()
+p.paragraph_format.space_before = Pt(0)
+p.paragraph_format.space_after = Pt(3)
+p.paragraph_format.line_spacing_rule = WD_LINE_SPACING.EXACTLY
+p.paragraph_format.line_spacing = Pt(12)
+run1 = p.add_run("Languages: ")
+run1.bold = True
+run1.font.size = Pt(10.5)
+run2 = p.add_run("HTML, CSS, JavaScript, TypeScript, SQL, Bash, C, Python")
+run2.font.size = Pt(10.5)
+
+p = doc.add_paragraph()
+p.paragraph_format.space_before = Pt(0)
+p.paragraph_format.space_after = Pt(3)
+p.paragraph_format.line_spacing_rule = WD_LINE_SPACING.EXACTLY
+p.paragraph_format.line_spacing = Pt(12)
+run1 = p.add_run("Frameworks & Libraries: ")
+run1.bold = True
+run1.font.size = Pt(10.5)
+run2 = p.add_run("React.js, Next.js, Vite.js, Redux, Context API, Express.js, Mongoose")
+run2.font.size = Pt(10.5)
+
+p = doc.add_paragraph()
+p.paragraph_format.space_before = Pt(0)
+p.paragraph_format.space_after = Pt(3)
+p.paragraph_format.line_spacing_rule = WD_LINE_SPACING.EXACTLY
+p.paragraph_format.line_spacing = Pt(12)
+run1 = p.add_run("UI Libraries: ")
+run1.bold = True
+run1.font.size = Pt(10.5)
+run2 = p.add_run("Material-UI, Tailwind CSS, Bootstrap, Shadcn‑UI, Styled Components")
+run2.font.size = Pt(10.5)
+
+p = doc.add_paragraph()
+p.paragraph_format.space_before = Pt(0)
+p.paragraph_format.space_after = Pt(3)
+p.paragraph_format.line_spacing_rule = WD_LINE_SPACING.EXACTLY
+p.paragraph_format.line_spacing = Pt(12)
+run1 = p.add_run("State Management & Data Fetching: ")
+run1.bold = True
+run1.font.size = Pt(10.5)
+run2 = p.add_run("React Query, Redux, Context API, Apollo Client")
+run2.font.size = Pt(10.5)
+
+p = doc.add_paragraph()
+p.paragraph_format.space_before = Pt(0)
+p.paragraph_format.space_after = Pt(3)
+p.paragraph_format.line_spacing_rule = WD_LINE_SPACING.EXACTLY
+p.paragraph_format.line_spacing = Pt(12)
+run1 = p.add_run("Mobile / Cross‑Platform: ")
+run1.bold = True
+run1.font.size = Pt(10.5)
+run2 = p.add_run("Capacitor (iOS/Android, biometric auth)")
+run2.font.size = Pt(10.5)
+
+p = doc.add_paragraph()
+p.paragraph_format.space_before = Pt(0)
+p.paragraph_format.space_after = Pt(3)
+p.paragraph_format.line_spacing_rule = WD_LINE_SPACING.EXACTLY
+p.paragraph_format.line_spacing = Pt(12)
+run1 = p.add_run("API & Auth: ")
+run1.bold = True
+run1.font.size = Pt(10.5)
+run2 = p.add_run("REST, GraphQL, JWT, Clerk, bcrypt, dotenv, cors, Webhooks, Axios, Fetch API")
+run2.font.size = Pt(10.5)
+
+p = doc.add_paragraph()
+p.paragraph_format.space_before = Pt(0)
+p.paragraph_format.space_after = Pt(3)
+p.paragraph_format.line_spacing_rule = WD_LINE_SPACING.EXACTLY
+p.paragraph_format.line_spacing = Pt(12)
+run1 = p.add_run("Databases: ")
+run1.bold = True
+run1.font.size = Pt(10.5)
+run2 = p.add_run("MongoDB, PostgreSQL")
+run2.font.size = Pt(10.5)
+
+p = doc.add_paragraph()
+p.paragraph_format.space_before = Pt(0)
+p.paragraph_format.space_after = Pt(3)
+p.paragraph_format.line_spacing_rule = WD_LINE_SPACING.EXACTLY
+p.paragraph_format.line_spacing = Pt(12)
+run1 = p.add_run("Testing: ")
+run1.bold = True
+run1.font.size = Pt(10.5)
+run2 = p.add_run("Jest, Jasmine, Cypress, Playwright")
+run2.font.size = Pt(10.5)
+
+p = doc.add_paragraph()
+p.paragraph_format.space_before = Pt(0)
+p.paragraph_format.space_after = Pt(3)
+p.paragraph_format.line_spacing_rule = WD_LINE_SPACING.EXACTLY
+p.paragraph_format.line_spacing = Pt(12)
+run1 = p.add_run("CI/CD & DevOps: ")
+run1.bold = True
+run1.font.size = Pt(10.5)
+run2 = p.add_run("Git, GitHub, GitHub Actions, CircleCI, Netlify, Heroku, Vercel, AWS")
+run2.font.size = Pt(10.5)
+
+p = doc.add_paragraph()
+p.paragraph_format.space_before = Pt(0)
+p.paragraph_format.space_after = Pt(3)
+p.paragraph_format.line_spacing_rule = WD_LINE_SPACING.EXACTLY
+p.paragraph_format.line_spacing = Pt(12)
+run1 = p.add_run("Other Services & Tools: ")
+run1.bold = True
+run1.font.size = Pt(10.5)
+run2 = p.add_run("Stripe, Cloudinary, Scroll‑Lock")
+run2.font.size = Pt(10.5)
 
 # Languages
 add_section_header("Languages")
