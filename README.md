@@ -17,10 +17,11 @@
 Full Stack Software Engineer, crafting digital experiences that mesmerize and
 inspire. 💻✨
 
-With JavaScript as my trusty tool, I wield frameworks like React.js and Next.js
-to breathe life into ideas and turn them into pixel-perfect realities. It's all
-about that perfect blend of creativity and functionality, where every line of
-code tells a story and every project leaves a lasting impression. 🎨🔮
+Self-taught software engineer trained through rigorous programs including
+Udacity, Helsinki University, Holberton School, and ALX Africa. Passionate about
+solving complex problems and crafting efficient, elegant software solutions. A
+lifelong learner thriving in dynamic environments and contributing to
+high-impact engineering projects. 🎨🔮
 
 But beyond the code, I'm driven by the thrill of innovation and the joy of
 problem-solving. Let's join forces and embark on a journey to build something
@@ -30,48 +31,58 @@ truly remarkable together! 💫👨‍💻
 
 <h2 style="color:#f75c7e">💡 My Tech Stack 🌟</h2>
 
-<h3 style="color:#f75c7e">🖥️ Frontend 🎨</h3>
-
-- <span style="color:#ffd700">**Languages**</span>: HTML, CSS, JavaScript,
-  TypeScript
-- <span style="color:#ffd700">**Frameworks/Libraries**</span>: React.js,
-  Next.js, Vite.js
-- <span style="color:#ffd700">**UI Libraries**</span>: Bootstrap, Material-UI,
-  Tailwind CSS, Shadcn-UI, Styled Components
-- <span style="color:#ffd700">**State Management**</span>: Redux, Context API
-
-<h3 style="color:#f75c7e">🍑 Backend & Database 🗃️</h3>
-
-- <span style="color:#ffd700">**Languages**</span>: JavaScript (Node.js), SQL
-- <span style="color:#ffd700">**Frameworks/Libraries**</span>: Express.js,
-  Mongoose
-- <span style="color:#ffd700">**Databases**</span>: MongoDB, PostgreSQL
-- <span style="color:#ffd700">**Authentication & Security**</span>: JWT, Bcrypt,
-  Cors
-
 <h3 style="color:#f75c7e">💻 Programming Languages 👨‍💻</h3>
 
-- <span style="color:#ffd700">**Languages**</span>: Bash, C, Python
+- <span style="color:#ffd700">**Languages**</span>: HTML, CSS, JavaScript,
+  TypeScript, SQL, Bash, C, Python
 
-<h3 style="color:#f75c7e">📡 APIs, Libraries & Services 📚</h3>
+<h3 style="color:#f75c7e">🖥️ Frameworks & Libraries 🎨</h3>
 
-- <span style="color:#ffd700">**APIs**</span>: RESTful APIs, GraphQL, Webhooks
-- <span style="color:#ffd700">**HTTP Clients**</span>: Axios, Fetch API
-- <span style="color:#ffd700">**GraphQL Client**</span>: Apollo Client
-- <span style="color:#ffd700">**Third-party Services**</span>: Clerk,
-  Cloudinary, Stripe
+- <span style="color:#ffd700">**Frontend**</span>: React.js, Next.js, Vite.js,
+  Redux, Context API
+- <span style="color:#ffd700">**Backend**</span>: Express.js, Mongoose
 
-<h3 style="color:#f75c7e">🚀 DevOps & Hosting 🌐</h3>
+<h3 style="color:#f75c7e">🎨 UI Libraries & Styling 🌈</h3>
 
-- <span style="color:#ffd700">**Version Control**</span>: Git, GitHub
-- <span style="color:#ffd700">**Hosting Platforms**</span>: Heroku, Netlify,
-  Vercel, AWS, GitHub Pages
-- <span style="color:#ffd700">**CI/CD**</span>: GitHub Actions, CircleCI
+- <span style="color:#ffd700">**UI Libraries**</span>: Material-UI, Tailwind
+  CSS, Bootstrap, Shadcn‑UI, Styled Components
+
+<h3 style="color:#f75c7e">📊 State Management & Data Fetching 🔄</h3>
+
+- <span style="color:#ffd700">**Tools**</span>: React Query, Redux, Context API,
+  Apollo Client
+
+<h3 style="color:#f75c7e">📱 Mobile & Cross‑Platform 📲</h3>
+
+- <span style="color:#ffd700">**Mobile**</span>: Capacitor (iOS/Android,
+  biometric auth)
+
+<h3 style="color:#f75c7e">📡 API & Authentication 🔐</h3>
+
+- <span style="color:#ffd700">**APIs**</span>: REST, GraphQL, Webhooks, Axios,
+  Fetch API
+- <span style="color:#ffd700">**Authentication**</span>: JWT, Clerk, bcrypt,
+  dotenv, cors
+
+<h3 style="color:#f75c7e">🗃️ Databases 💾</h3>
+
+- <span style="color:#ffd700">**Databases**</span>: MongoDB, PostgreSQL
 
 <h3 style="color:#f75c7e">🧪 Testing ✅</h3>
 
-- <span style="color:#ffd700">**Testing Frameworks**</span>: Jest, Cypress,
-  Jasmine
+- <span style="color:#ffd700">**Testing Frameworks**</span>: Jest, Jasmine,
+  Cypress, Playwright
+
+<h3 style="color:#f75c7e">🚀 CI/CD & DevOps 🌐</h3>
+
+- <span style="color:#ffd700">**Version Control**</span>: Git, GitHub
+- <span style="color:#ffd700">**CI/CD**</span>: GitHub Actions, CircleCI
+- <span style="color:#ffd700">**Hosting**</span>: Netlify, Heroku, Vercel, AWS
+
+<h3 style="color:#f75c7e">🛠️ Other Services & Tools 🔧</h3>
+
+- <span style="color:#ffd700">**Services**</span>: Stripe, Cloudinary,
+  Scroll‑Lock
 
 <!-- Conatct me -->
 
@@ -101,4 +112,3 @@ or collaborate on something cool! 🤝
 </a>
 <a href="https://github.com/YousifAbozid">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YousifAbozid&hide_border=true&langs_count=8&layout=compact&theme=radical" alt="Top Languages">
-</a>
