@@ -13,9 +13,13 @@ PERSONAL_INFO = {
 }
 
 # Summary
-SUMMARY = ("Self-taught software engineer trained through rigorous programs including Udacity, Helsinki University, "
+SUMMARY = ("Self-taught software engineer with +5 years of professional experience, trained through rigorous programs including Udacity, Helsinki University, "
           "Holberton School, and ALX Africa. Passionate about solving complex problems and crafting efficient, elegant software solutions. "
-          "A lifelong learner thriving in dynamic environments and contributing to high-impact engineering projects.")
+          "A lifelong learner thriving in dynamic environments and contributing to high-impact engineering projects. "
+          "Skilled in full-stack development with a focus on frontend technologies, specializing in React, Next.js, TypeScript, Node.js, and modern web development practices. "
+          "Experienced in building scalable web applications, optimizing performance, and collaborating in cross-functional teams across fintech, construction, and insurance sectors. "
+          "I thrive on solving complex problems and delivering high-quality solutions that exceed expectations. My approach combines technical expertise with user-centered design thinking. "
+          "When I'm not coding, you'll find me exploring new technologies, contributing to open source projects, or mentoring fellow developers in the community.")
 
 # Experience Data
 EXPERIENCE = [
