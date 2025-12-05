@@ -38,18 +38,18 @@ truly remarkable together! 💫👨‍💻
 
 <h3 style="color:#f75c7e">🖥️ Frameworks & Libraries 🎨</h3>
 
-- <span style="color:#ffd700">**Frontend**</span>: React.js, Next.js, Vite.js,
-  Redux, Context API
+- <span style="color:#ffd700">**Frontend**</span>: React 19, Next.js, Vite,
+  Redux, Context API, TanStack Router
 - <span style="color:#ffd700">**Backend**</span>: Express.js, Mongoose
 
 <h3 style="color:#f75c7e">🎨 UI Libraries & Styling 🌈</h3>
 
 - <span style="color:#ffd700">**UI Libraries**</span>: Material-UI, Tailwind
-  CSS, Bootstrap, Shadcn‑UI, Styled Components
+  CSS v4, Bootstrap, Shadcn/UI, Styled Components
 
 <h3 style="color:#f75c7e">📊 State Management & Data Fetching 🔄</h3>
 
-- <span style="color:#ffd700">**Tools**</span>: React Query, Redux, Context API,
+- <span style="color:#ffd700">**Tools**</span>: TanStack Query, React Query, Redux, Context API,
   Apollo Client
 
 <h3 style="color:#f75c7e">📱 Mobile & Cross‑Platform 📲</h3>
@@ -59,9 +59,9 @@ truly remarkable together! 💫👨‍💻
 
 <h3 style="color:#f75c7e">📡 API & Authentication 🔐</h3>
 
-- <span style="color:#ffd700">**APIs**</span>: REST, GraphQL, Webhooks, Axios,
+- <span style="color:#ffd700">**APIs**</span>: REST APIs, OpenAPI, Swagger, GraphQL, Webhooks, Axios,
   Fetch API
-- <span style="color:#ffd700">**Authentication**</span>: JWT, Clerk, bcrypt,
+- <span style="color:#ffd700">**Authentication**</span>: JWT Authentication, Clerk, bcrypt,
   dotenv, cors
 
 <h3 style="color:#f75c7e">🗃️ Databases 💾</h3>
@@ -76,7 +76,7 @@ truly remarkable together! 💫👨‍💻
 <h3 style="color:#f75c7e">🚀 CI/CD & DevOps 🌐</h3>
 
 - <span style="color:#ffd700">**Version Control**</span>: Git, GitHub
-- <span style="color:#ffd700">**CI/CD**</span>: GitHub Actions, CircleCI
+- <span style="color:#ffd700">**CI/CD**</span>: GitHub Actions, CI/CD Workflows, CircleCI, Husky, ESLint, Prettier
 - <span style="color:#ffd700">**Hosting**</span>: Netlify, Heroku, Vercel, AWS
 
 <h3 style="color:#f75c7e">🛠️ Other Services & Tools 🔧</h3>

@@ -20,6 +20,21 @@ SUMMARY = ("Self-taught software engineer trained through rigorous programs incl
 # Experience Data
 EXPERIENCE = [
     {
+        "title": "Senior Frontend Developer — Equivator",
+        "duration": "09/2025 – 12/2025",
+        "location": "Remote",
+        "bullets": [
+            "• Led development of two full-scale web apps (Admin + Partner) for a construction management platform.",
+            "• Architected and maintained a scalable monorepo (Turborepo + PNPM) with shared UI packages and internal tooling.",
+            "• Implemented material/equipment inquiries, quotation workflows, project management, and supplier onboarding modules.",
+            "• Built a robust, cross-app notifications system supporting real-time and event-driven business flows.",
+            "• Collaborated with distributed teams (UI/UX, backend, QA) across Egypt, Syria, Turkey, and UAE to deliver production-ready features.",
+            "• Delivered type-safe API integrations using automated OpenAPI client generation.",
+            "• Optimized performance, improved build pipelines, and ensured consistent deployments for dev, staging, and demo environments.",
+            "• Contributed to design system development, enhancing UX consistency across both applications."
+        ]
+    },
+    {
         "title": "Full Stack Software Engineer — Salem Ventures & TradeSocio",
         "duration": "07/2024 – 07/2025",
         "location": "Zahraa Al Maadi, Cairo, Egypt - On-Site",
@@ -137,13 +152,16 @@ PROJECTS = [
         "title": "React & Next.js Production Templates",
         "demo_urls": {
             "React 19": "https://template-react-ts-ten.vercel.app/",
-            "Next.js 15": "https://template-nextjs-ts.vercel.app/"
+            "Next.js 16 Full-Stack": "https://template-nextjs-ts.vercel.app/",
+            "Next.js 16 Backend": "https://template-nextjs-backend.vercel.app/",
+            "Express TypeScript": "https://template-express-ts.koyeb.app/"
         },
         "bullets": [
-            "• Built production-ready templates with React 19/Next.js 15, TypeScript, and Tailwind CSS v4.",
-            "• Configured comprehensive development tooling: ESLint, Prettier, Husky pre-commit hooks.",
-            "• Implemented semantic theming systems with dark mode support out of the box.",
-            "• Templates adopted by developers for modern project foundations with best practices."
+            "• Built 4 production-ready templates: React 19, Next.js 16 full-stack/backend, and Express.js with TypeScript.",
+            "• Implemented auto-generated OpenAPI documentation with type-safe API clients and zero-configuration discovery.",
+            "• Created comprehensive developer tooling: ESLint, Prettier, Husky, decorator-based Swagger, and form validation with Zod.",
+            "• Features semantic theming systems, dark mode support, React Query integration, and MongoDB integration.",
+            "• Templates adopted by developers for modern project foundations with optimized production deployments."
         ]
     }
 ]
@@ -151,14 +169,14 @@ PROJECTS = [
 # Skills Data
 SKILLS = {
     "Languages": "HTML, CSS, JavaScript, TypeScript, SQL, Bash, C, Python",
-    "Frameworks & Libraries": "React.js, Next.js, Vite.js, Redux, Context API, Express.js, Mongoose",
-    "UI Libraries": "Material-UI, Tailwind CSS, Bootstrap, Shadcn‑UI, Styled Components",
-    "State Management & Data Fetching": "React Query, Redux, Context API, Apollo Client",
+    "Frameworks & Libraries": "React 19, Next.js, Vite, Redux, Context API, Express.js, Mongoose, TanStack Router",
+    "UI Libraries": "Material-UI, Tailwind CSS v4, Bootstrap, Shadcn/UI, Styled Components",
+    "State Management & Data Fetching": "TanStack Query, React Query, Redux, Context API, Apollo Client",
     "Mobile / Cross‑Platform": "Capacitor (iOS/Android, biometric auth)",
-    "API & Auth": "REST, GraphQL, JWT, Clerk, bcrypt, dotenv, cors, Webhooks, Axios, Fetch API",
+    "API & Auth": "REST APIs, OpenAPI, Swagger, GraphQL, JWT Authentication, Clerk, bcrypt, dotenv, cors, Webhooks, Axios, Fetch API",
     "Databases": "MongoDB, PostgreSQL",
     "Testing": "Jest, Jasmine, Cypress, Playwright",
-    "CI/CD & DevOps": "Git, GitHub, GitHub Actions, CircleCI, Netlify, Heroku, Vercel, AWS",
+    "CI/CD & DevOps": "Git, GitHub, GitHub Actions, CI/CD Workflows, CircleCI, Netlify, Heroku, Vercel, AWS, Husky, ESLint, Prettier",
     "Other Services & Tools": "Stripe, Cloudinary, Scroll‑Lock"
 }
 

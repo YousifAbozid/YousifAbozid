@@ -161,7 +161,7 @@ name_run.bold = True
 name_run.font.size = Pt(18)
 name_run.font.color.rgb = RGBColor(0x1f, 0x4e, 0x79)
 
-title_run = header_p.add_run(f"\n{PERSONAL_INFO['title']}")
+title_run = header_p.add_run(f"\n\n{PERSONAL_INFO['title']}")
 title_run.font.size = Pt(13)
 title_run.font.color.rgb = RGBColor(0x2c, 0x3e, 0x50)
 
