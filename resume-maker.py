@@ -7,17 +7,21 @@ from docx.oxml.ns import nsdecls
 from docx.oxml import parse_xml
 from resume_data import *
 
-# Section Header Helper with enhanced styling
-def add_section_header(title):
+# Section Header Helper with enhanced styling and page break control
+def add_section_header(title, keep_with_next=True):
     p = doc.add_paragraph()
-    p.paragraph_format.space_before = Pt(8)  # Reduced from 12
-    p.paragraph_format.space_after = Pt(4)   # Reduced from 6
+    p.paragraph_format.space_before = Pt(10)  # Slightly more space before sections
+    p.paragraph_format.space_after = Pt(6)   # Increased for better separation
     p.paragraph_format.left_indent = Pt(0)
     p.paragraph_format.right_indent = Pt(0)
     
+    # Keep section header with next paragraph to avoid page breaks
+    if keep_with_next:
+        p.paragraph_format.keep_with_next = True
+    
     run = p.add_run(title)
     run.bold = True
-    run.font.size = Pt(12)  # Reduced from 13
+    run.font.size = Pt(12.5)  # Slightly larger for better hierarchy
     run.font.color.rgb = RGBColor(0x1f, 0x4e, 0x79)  # Professional blue color
     p.alignment = WD_PARAGRAPH_ALIGNMENT.LEFT
     
@@ -27,19 +31,23 @@ def add_section_header(title):
     # Add a shorter divider line after section header
     divider = doc.add_paragraph()
     divider.paragraph_format.space_before = Pt(0)
-    divider.paragraph_format.space_after = Pt(4)  # Reduced from 8
-    divider_run = divider.add_run("━" * 45)  # Shorter line
+    divider.paragraph_format.space_after = Pt(6)  # Better spacing
+    divider_run = divider.add_run("━" * 50)  # Slightly longer
     divider_run.font.color.rgb = RGBColor(0xe0, 0xe0, 0xe0)  # Light gray
-    divider_run.font.size = Pt(7)  # Smaller
+    divider_run.font.size = Pt(8)
 
-# Enhanced Paragraph Helper with better formatting
-def add_paragraph(text, bold=False, italic=False, size=10, indent=0):  # Reduced default from 10.5
+# Enhanced Paragraph Helper with better formatting and page break control
+def add_paragraph(text, bold=False, italic=False, size=10.5, indent=0, keep_with_next=False):  # Restored readable size
     p = doc.add_paragraph()
     p.paragraph_format.space_before = Pt(0)
-    p.paragraph_format.space_after = Pt(2)  # Reduced from 4
+    p.paragraph_format.space_after = Pt(3)  # Better spacing for readability
     p.paragraph_format.line_spacing_rule = WD_LINE_SPACING.EXACTLY
-    p.paragraph_format.line_spacing = Pt(12)  # Reduced from 14
+    p.paragraph_format.line_spacing = Pt(13)  # Better line spacing
     p.paragraph_format.left_indent = Inches(indent)
+    
+    # Keep with next paragraph if specified
+    if keep_with_next:
+        p.paragraph_format.keep_with_next = True
     
     run = p.add_run(text)
     run.bold = bold
@@ -100,24 +108,28 @@ def add_paragraph_with_links(text_parts, bold=False, italic=False, size=10):
     
     return p
 
-# Enhanced bullet point helper
-def add_bullet_points(bullets, indent=0.2):
-    for bullet in bullets:
+# Enhanced bullet point helper with page break control
+def add_bullet_points(bullets, indent=0.2, keep_together=True):
+    for i, bullet in enumerate(bullets):
         p = doc.add_paragraph()
         p.paragraph_format.space_before = Pt(0)
-        p.paragraph_format.space_after = Pt(1)  # Reduced from 3
+        p.paragraph_format.space_after = Pt(2)  # Consistent spacing
         p.paragraph_format.line_spacing_rule = WD_LINE_SPACING.EXACTLY
-        p.paragraph_format.line_spacing = Pt(12)  # Reduced from 14
+        p.paragraph_format.line_spacing = Pt(13)  # Better readability
         p.paragraph_format.left_indent = Inches(indent)
         p.paragraph_format.first_line_indent = Inches(-0.15)
         
-        # Add custom bullet
-        bullet_run = p.add_run("")  # Custom bullet character
-        bullet_run.font.color.rgb = RGBColor(0x1f, 0x4e, 0x79)
-        bullet_run.font.size = Pt(9)  # Reduced from 10
+        # Keep bullets together to avoid page breaks within bullet lists
+        if keep_together and i < len(bullets) - 1:
+            p.paragraph_format.keep_with_next = True
         
-        text_run = p.add_run(bullet)
-        text_run.font.size = Pt(10)  # Reduced from 10.5
+        # Add custom bullet
+        bullet_run = p.add_run("")  # Standard bullet
+        bullet_run.font.color.rgb = RGBColor(0x1f, 0x4e, 0x79)
+        bullet_run.font.size = Pt(10)
+        
+        text_run = p.add_run(" " + bullet)  # Space after bullet
+        text_run.font.size = Pt(10.5)  # Good readability
 
 # Start a new doc with enhanced styling
 doc = Document()
@@ -133,14 +145,14 @@ for section in sections:
 style = doc.styles['Normal']
 font = style.font
 font.name = 'Arial'
-font.size = Pt(10)  # Reduced from 10.5
+font.size = Pt(10.5)  # Restored for better readability
 
-# Set compact spacing for Normal style
+# Set balanced spacing for Normal style
 paragraph_format = style.paragraph_format
 paragraph_format.space_before = Pt(0)
-paragraph_format.space_after = Pt(2)  # Reduced from 3
+paragraph_format.space_after = Pt(3)  # Better spacing
 paragraph_format.line_spacing_rule = WD_LINE_SPACING.EXACTLY
-paragraph_format.line_spacing = Pt(11)  # Reduced from 12
+paragraph_format.line_spacing = Pt(12.5)  # Better line spacing
 
 # Header with enhanced styling
 header_table = doc.add_table(rows=1, cols=1)
@@ -207,8 +219,8 @@ summary_p = add_paragraph(SUMMARY, size=10.5)
 add_section_header("Experience")
 
 for i, exp in enumerate(EXPERIENCE):
-    # Job title with enhanced styling
-    title_p = add_paragraph(exp["title"], bold=True, size=11)
+    # Job title with enhanced styling and page break control
+    title_p = add_paragraph(exp["title"], bold=True, size=11.5, keep_with_next=True)
     for run in title_p.runs:
         if run.bold:
             run.font.color.rgb = RGBColor(0x2c, 0x3e, 0x50)
@@ -218,23 +230,23 @@ for i, exp in enumerate(EXPERIENCE):
     if "duration" in exp:
         location_text += f" | {exp['duration']}"
     
-    location_p = add_paragraph(location_text, italic=True, size=9.5)
+    location_p = add_paragraph(location_text, italic=True, size=10, keep_with_next=True)
     for run in location_p.runs:
         run.font.color.rgb = RGBColor(0x6c, 0x75, 0x7d)
     
-    # Bullet points with custom styling - use helper function
-    add_bullet_points(exp["bullets"])
+    # Bullet points with enhanced styling and page break control
+    add_bullet_points(exp["bullets"], keep_together=True)
     
     # Add spacing between experience entries
     if i < len(EXPERIENCE) - 1:
         spacer = doc.add_paragraph()
-        spacer.paragraph_format.space_after = Pt(3)  # Reduced from 6
+        spacer.paragraph_format.space_after = Pt(6)  # Better separation between entries
 
 # Education with enhanced formatting
 add_section_header("Education")
 
 for edu in EDUCATION:
-    title_p = add_paragraph(edu["title"], bold=True, size=11)
+    title_p = add_paragraph(edu["title"], bold=True, size=11.5, keep_with_next=True)
     for run in title_p.runs:
         if run.bold:
             run.font.color.rgb = RGBColor(0x2c, 0x3e, 0x50)
@@ -244,18 +256,18 @@ for edu in EDUCATION:
     if "duration" in edu:
         location_text += f" | {edu['duration']}"
     
-    location_p = add_paragraph(location_text, italic=True, size=9.5)
+    location_p = add_paragraph(location_text, italic=True, size=10)
     for run in location_p.runs:
         run.font.color.rgb = RGBColor(0x6c, 0x75, 0x7d)
     
-    add_paragraph(edu["description"], size=10)
+    add_paragraph(edu["description"], size=10.5)
 
 # Projects with enhanced formatting
 add_section_header("Projects")
 
 for i, project in enumerate(PROJECTS):
-    # Project title
-    title_p = add_paragraph(project["title"], bold=True, size=11)
+    # Project title with page break control
+    title_p = add_paragraph(project["title"], bold=True, size=11.5, keep_with_next=True)
     for run in title_p.runs:
         if run.bold:
             run.font.color.rgb = RGBColor(0x2c, 0x3e, 0x50)
