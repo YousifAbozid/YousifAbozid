@@ -22,7 +22,7 @@ EXPERIENCE = [
     {
         "title": "Senior Frontend Developer — Equivator",
         "duration": "09/2025 – 12/2025",
-        "location": "Remote",
+        "location": "Riyadh, Saudi Arabia - Remote",
         "bullets": [
             "• Led development of two full-scale web apps (Admin + Partner) for a construction management platform.",
             "• Architected and maintained a scalable monorepo (Turborepo + PNPM) with shared UI packages and internal tooling.",
